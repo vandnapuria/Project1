@@ -1,0 +1,3 @@
+resource "new" "test" {
+
+}
